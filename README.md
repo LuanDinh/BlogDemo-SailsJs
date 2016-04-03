@@ -1,7 +1,7 @@
 # blogDemoProject
 
-a [Sails](http://sailsjs.org) application
+a [Sails](http://sailsjs.org) application /n
 Using sqlserver to store data
-Seperate code structure into controller and manager
+Separate code structure into controller and manager
 Implemet OOP (inheritance) for every controller and manager from base one
 
